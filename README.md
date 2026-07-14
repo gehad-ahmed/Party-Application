@@ -1,5 +1,7 @@
 # 🎉 Party / Event Landing Page
 
+> 🔗 **Live Demo:** [https://gehad-ahmed.github.io/Party-Application/](https://gehad-ahmed.github.io/Party-Application/)
+
 A responsive event landing page featuring a live countdown timer, animated navigation and interactive sections, built with HTML, CSS and jQuery.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
